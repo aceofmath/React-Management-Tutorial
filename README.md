@@ -1,3 +1,9 @@
+## Step1
+0.Git CMD에서 아래 명령어 실행
+1.git remote add origin https://github.com/aceofmath/React-Management-Tutorial.git
+
+2.git push --set-upstream origin master
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
